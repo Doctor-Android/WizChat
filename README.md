@@ -2,7 +2,7 @@
 
 > **The most comprehensive decentralized internet platform ever created - ALL features implemented in one unified codebase**
 
-**I JULIO MONTESNO made it**
+**JULIO MONTESNO made it**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
