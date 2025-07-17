@@ -9,6 +9,12 @@
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20iOS%20%7C%20Android-green.svg)](https://wiznet.io)
 [![Features](https://img.shields.io/badge/Features-150+-orange.svg)](https://wiznet.io/features)
 
+
+<div align="center">
+  <img src="assets/Wizchat.png" alt="WizChat Logo" width="200" height="200">
+</div>
+
+
 ## 🚀 **What I Built**
 
 I created WizNet as a complete decentralized internet platform with ALL features implemented in one unified codebase:
