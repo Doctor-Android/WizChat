@@ -28,7 +28,7 @@ I created WizNet as a complete decentralized internet platform with ALL features
 
 I built WizNet as a revolutionary decentralized internet platform that combines privacy, security, and functionality into one comprehensive system. It's not just a messaging app or a crypto wallet - it's a complete internet platform that gives users full control over their digital lives.
 
-### **🌟 What I Included**
+### **🌟 My Vision**
 
 #### **🔐 Security & Privacy**
 - **End-to-End Encryption** - Military-grade AES-256, RSA-4096, ChaCha20
