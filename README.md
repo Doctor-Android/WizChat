@@ -28,7 +28,7 @@ I created WizNet as a complete decentralized internet platform with ALL features
 - **✅ Multi-Platform Support** - Linux, Windows, macOS, iOS, Android
 - **✅ Enterprise-Grade** - Professional quality and reliability
 - **✅ Open Source** - Ready for community contribution
-- **✅ Production-Ready** - Deployable and scalable
+- **✅ Modifible** - rRemix it!
 
 ---
 
