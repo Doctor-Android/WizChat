@@ -1,4 +1,4 @@
-# 🌐 WizNet - Complete Decentralized Internet Platform
+# 🌐 WizChat - Complete Decentralized Internet Platform
 
 > **The most comprehensive decentralized internet platform ever created - ALL features implemented in one unified codebase**
 
